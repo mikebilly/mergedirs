@@ -2,7 +2,7 @@ import os
 from os import path
 import shutil
 import hashlib
-from .flags import set_oldest
+from flags import set_oldest
 
 __version__ = '0.1'
 _usage_simple = '''
